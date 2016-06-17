@@ -1,0 +1,101 @@
+#strona {
+	width: 1200px;
+	height: 1300px;
+	border: 1px solid /*red*/white;
+	display: block;
+	margin: 0 auto;
+}
+
+#baner {
+	width: 1198px;
+	height: 200px;
+	border: 1px solid /*black*/white;
+}
+
+#pudlo1 {
+	width:1198px;
+	height:700px;
+	border: 1px /*dashed blue*/solid white;
+}
+
+#lewe_menu {
+	width: 300px;
+	height: 680px;
+	border: 5px solid white;
+	background:#808080;
+	float:left;
+}
+
+#srodek {
+	width: 650px;
+	height: 680px;
+	border: 5px solid white;
+	background:#FF0000;
+	float:left;
+}
+#prawe_menu {
+	width: 218px;
+	height: 680px;
+	border: 5px solid white;
+	background:#808080;
+	float:left;
+}
+
+#prawe1, #prawe2{
+	width: 218px;
+	height: 110px;
+	border-bottom: 10px solid white;
+}
+#prawe3{
+	width: 218px;
+	height: 350px;
+	border-bottom: 10px solid white;
+}
+#prawe4{
+	width: 218px;
+	height: 80px;
+	border-bottom: 10px solid white;
+}
+
+#pudlo2 {
+	width:1198px;
+	height:300px;
+	border: 1px /*dashed green*/solid white;
+}
+
+#pudlo2lewe {
+	width: 300px;
+	height: 290px;
+	border-bottom: 10px solid white;
+	border-left: 5px solid white;
+	border-right: 5px solid white;
+	background: #808080;
+	float:left; 
+}
+
+#pudlo2srodek {
+	width: 650px;
+	height: 290px;
+	border-left: 5px solid white;
+	border-right: 5px solid white;
+	border-bottom: 10px solid white;
+	background:#808080;
+	float:left;
+}
+
+#pudlo2prawe {
+	width: 218px;
+	height: 290px;
+	border-left: 5px solid white;
+	border-right: 5px solid white;
+	border-bottom: 10px solid white;
+	background:#808080;
+	float:left;
+}
+
+#stopka {
+	width:1190px;
+	height:92px;
+	border: 5px solid white;
+	background: #808080;
+}
